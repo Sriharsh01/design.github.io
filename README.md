@@ -585,9 +585,7 @@ body {
 </style>
  <h1 class = "hoho">SELECT YOUR FAVOURITE COLOR</h1>
  
-<div class = "bmws">
-<img src = "http://www.rw-designer.com/icon-image/4226-256x256x32.png"width="75px" height = "75px">
-</div>
+
 
 <div class="BMW">
 <img id="mybmwImage" src="https://cache.bmwusa.com/cosy.arox?pov=walkaround&angle=270&brand=WBBM&vehicle=182E&client=byo&paint=P0C1X&fabric=FKCSW&sa=S026R,S0302,S0322,S0346,S0387,S03AG,S03DZ,S0465,S0521,S05A1,S07AC&resp=png&BKGND=TRANSPARENT&WIDTH=645&HEIGHT=276" >
@@ -645,23 +643,13 @@ body {
 
 <!--****************************************************************************************************************************************-->
 
-<div class = "lambos">
-<img src = "http://www.automobili-lamborghini-thai.com/images/lam_logo.png"width="75px" height = "75px">
-</div>
+
 
 <div class="lambo">
 <img id="mylamboImage" src="https://configurator.lamborghini.com/img/car-selection-huracan-rwd-spyder.png" >
 </div> 
 
 <div>
-<button class="greenpbutton" onclick="document.getElementById('mylamboImage').src='https://configurator.lamborghini.com/img/car-selection-huracan-coupe.png'"></button>
-
-<button class="orangepbutton" onclick="document.getElementById('mylamboImage').src='https://configurator.lamborghini.com/img/car-selection-huracan-rwd.png'"></button>
-
-<button class="whitepbutton" onclick="document.getElementById('mylamboImage').src='https://configurator.lamborghini.com/img/car-selection-huracan-spyder.png'"></button>
-
-
-<button class="goldpbutton" onclick="document.getElementById('mylamboImage').src='https://configurator.lamborghini.com/img/car-selection-huracan-rwd-spyder.png'"></button>
 
 
 <button class="redpbutton" onclick="document.getElementById('mylamboImage').src='https://www.lamborghini.com/en-en/sites/en-en/files/DAM/lamborghini/gateway-family/huracan/car/huracan-rwd.png'"></button>
@@ -670,9 +658,7 @@ body {
 
 <!--**************************************************************************************************************************************-->
 
-<div class = "musts">
-<img src = "http://blog.htc.ca/wp-content/uploads/2013/11/2505-256x256x32.png"width="90px" height = "90px">
-</div>
+
 
 <div class="must">
 <img id="mymustImage" src="http://build.ford.com/dig/Ford/Mustang/2017/HD-TILE/Image[%7CFord%7CMustang%7C2017%7C1%7C1.%7C200A.P8T..PQ..884.LTS.COU.CJDAA.~RZZ00.LRS.646.LEA.44X.EBST.891.]/EXT/1/vehicle.png" >
@@ -723,7 +709,7 @@ body {
 <!--****************************************************************************************************************************************************************************************-->
 
 <div class = "porshs">
-<img src = "https://img13.deviantart.net/875e/i/2011/265/c/9/porsche_logo_icon_ico_by_mahesh69a-d4an138.png" width="135px" height = "150px"
+<img src = "https://img13.deviantart.net/875e/i/2011/265/c/9/porsche_logo_icon_ico_by_mahesh69a-d4an138.png" width="135px" height = "150px">
 </div>
 
 <div class="porsh">
